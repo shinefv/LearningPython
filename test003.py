@@ -1,1 +1,1 @@
-print "Hi, Hi"
+print("Python Test")
