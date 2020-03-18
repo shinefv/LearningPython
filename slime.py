@@ -28,9 +28,9 @@ print("Press ENTER: ")
 def kirei():
     input()
     #windows の場合は、
-    #os.system("cls")
+    os.system("cls")
     #Mac, Linux の場合は、
-    os.system("clear")
+    #os.system("clear")
 kirei()
 man = Man()
 slime = Slime()
